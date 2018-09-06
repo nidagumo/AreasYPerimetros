@@ -1,6 +1,6 @@
 package areasyperimetros;
 public class Circulo {
-    protected int rad;
+    private int rad;
     private int resu;
     public void setrad(int valor){
         this.rad = valor;

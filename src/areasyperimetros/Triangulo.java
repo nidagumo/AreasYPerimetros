@@ -1,7 +1,7 @@
 package areasyperimetros;
 public class Triangulo {
-    protected int base;
-    protected int altura;
+    private int base;
+    private int altura;
     private int resu;
     public void setbase(int valor){
        this.base = valor;

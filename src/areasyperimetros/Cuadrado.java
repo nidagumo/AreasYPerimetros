@@ -1,7 +1,7 @@
 package areasyperimetros;
 public class Cuadrado {
-    protected int lado;
-    protected int resu;
+    private int lado;
+    private int resu;
     public void setlado(int valor){
         this.lado = valor;
     }
